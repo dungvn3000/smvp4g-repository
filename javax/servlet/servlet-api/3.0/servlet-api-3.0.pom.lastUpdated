@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Mar 10 19:05:30 SGT 2012
+default-http\://archiva.fdvs.com.ar/repository/public1/.lastUpdated=1331377529140
+http\://download.java.net/maven/2/.lastUpdated=1331377517172
+http\://repo1.maven.org/maven2/.error=
+http\://archiva.fdvs.com.ar/repository/public1/.error=Could not transfer artifact javax.servlet\:servlet-api\:pom\:3.0 from/to dynamic-report (http\://archiva.fdvs.com.ar/repository/public1/)\: Error transferring file\: Server returned HTTP response code\: 500 for URL\: http\://archiva.fdvs.com.ar/repository/public1/javax/servlet/servlet-api/3.0/servlet-api-3.0.pom
+http\://repo1.maven.org/maven2/.lastUpdated=1331377530431
+http\://download.java.net/maven/2/.error=
