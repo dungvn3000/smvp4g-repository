@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Mar 10 18:42:18 SGT 2012
+example-0.1.pom>=
+example-0.1.war>=
+example-0.1-sources.jar>=
