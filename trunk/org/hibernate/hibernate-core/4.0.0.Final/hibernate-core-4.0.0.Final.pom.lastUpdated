@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Mar 10 11:32:15 SGT 2012
+default-http\://repo1.maven.org/maven2/.lastUpdated=1331310445948
+http\://download.java.net/maven/2/.lastUpdated=1331350330779
+http\://archiva.fdvs.com.ar/repository/public1/.lastUpdated=1331350335823
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-core\:pom\:4.0.0.Final from/to central (http\://repo1.maven.org/maven2)\: Error transferring file\: repo1.maven.org
+http\://download.java.net/maven/2/.error=
