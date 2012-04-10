@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>ivnwebcrawler</artifactId>
+        <groupId>net.sbcsoft</groupId>
+        <version>0.1-BETA</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>net.sbcsoft.ivnwebcrawler</groupId>
+    <artifactId>core</artifactId>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>net.sbcsoft</groupId>
+            <artifactId>ivnhtmlparser</artifactId>
+            <version>0.1-BETA</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.googlecode</groupId>
+            <artifactId>flaxcrawler</artifactId>
+            <version>1.1.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>6.1.1</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.6.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-simple</artifactId>
+            <version>1.6.1</version>
+        </dependency>
+
+    </dependencies>
+
+</project>

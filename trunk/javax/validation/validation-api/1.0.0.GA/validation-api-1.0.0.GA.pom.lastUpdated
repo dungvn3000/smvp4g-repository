@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 09 21:25:17 SGT 2012
+default-http\://archiva.fdvs.com.ar/repository/public1/.lastUpdated=1331299512831
+http\://download.java.net/maven/2/.lastUpdated=1331299038814
+http\://archiva.fdvs.com.ar/repository/public1/.error=Could not transfer artifact javax.validation\:validation-api\:pom\:1.0.0.GA from/to dynamic-report (http\://archiva.fdvs.com.ar/repository/public1/)\: Error transferring file\: Connection reset
+http\://repo1.maven.org/maven2/.lastUpdated=1331299517193
+http\://download.java.net/maven/2/.error=
