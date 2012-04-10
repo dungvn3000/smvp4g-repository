@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 09 21:17:16 SGT 2012
+default-http\://archiva.fdvs.com.ar/repository/public1/.lastUpdated=1331299029265
+http\://download.java.net/maven/2/.lastUpdated=1331298549619
+http\://archiva.fdvs.com.ar/repository/public1/.error=Could not transfer artifact org.sonatype.oss\:oss-parent\:pom\:4 from/to dynamic-report (http\://archiva.fdvs.com.ar/repository/public1/)\: Error transferring file\: Connection reset
+http\://repo1.maven.org/maven2/.lastUpdated=1331299036366
+http\://download.java.net/maven/2/.error=
