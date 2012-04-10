@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Mar 10 18:42:11 SGT 2012
+generator-0.1.jar>=
+generator-0.1-sources.jar>=
+generator-0.1.pom>=

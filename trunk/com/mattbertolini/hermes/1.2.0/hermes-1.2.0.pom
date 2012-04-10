@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Hermes - GWT Server-side I18N Library
+  Copyright (C) 2011  Matt Bertolini
+
+  This library is free software; you can redistribute it and/or
+  modify it under the terms of the GNU Lesser General Public
+  License as published by the Free Software Foundation; either
+  version 2.1 of the License, or (at your option) any later version.
+
+  This library is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+  Lesser General Public License for more details.
+
+  You should have received a copy of the GNU Lesser General Public
+  License along with this library; if not, write to the Free Software
+  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.mattbertolini</groupId>
+  <artifactId>hermes</artifactId>
+  <packaging>jar</packaging>
+  <name>Hermes</name>
+  <version>1.2.0</version>
+  <description>Hermes GWT Server-side i18n Library</description>
+  <url>https://github.com/MaliciousMonkey/Hermes</url>
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License 2.1</name>
+      <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://github.com/MaliciousMonkey/Hermes</url>
+    <connection>scm:git:git://github.com/MaliciousMonkey/Hermes.git</connection>
+  </scm>
+  <developers>
+    <developer>
+      <name>Matt Bertolini</name>
+    </developer>
+  </developers>
+  <dependencies>
+    <dependency>
+      <groupId>com.google.gwt</groupId>
+      <artifactId>gwt-servlet</artifactId>
+      <version>2.2.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.ibm.icu</groupId>
+      <artifactId>icu4j</artifactId>
+      <version>4.6</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.8.2</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>emma</groupId>
+      <artifactId>emma</artifactId>
+      <version>2.1.5320</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>emma</groupId>
+      <artifactId>emma_ant</artifactId>
+      <version>2.1.5320</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>

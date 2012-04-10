@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 09 22:19:52 SGT 2012
+default-http\://archiva.fdvs.com.ar/repository/public1/.lastUpdated=1331302776122
+http\://download.java.net/maven/2/.lastUpdated=1331302309051
+http\://archiva.fdvs.com.ar/repository/public1/.error=Could not transfer artifact com.google.gwt\:gwt\:pom\:2.2.0 from/to dynamic-report (http\://archiva.fdvs.com.ar/repository/public1/)\: Error transferring file\: Connection reset
+http\://repo1.maven.org/maven2/.lastUpdated=1331302792447
+http\://download.java.net/maven/2/.error=
