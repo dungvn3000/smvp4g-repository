@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 16 05:54:27 SGT 2012
+default-http\://repository.jboss.org/maven2/.lastUpdated=1334526866489
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact javax.transaction\:jta\:pom\:1.1 from/to jboss (http\://repository.jboss.org/maven2/)\: Access denied to\: http\://repository.jboss.org/maven2/javax/transaction/jta/1.1/jta-1.1.pom
+http\://repo1.maven.org/maven2/.lastUpdated=1334526867068
