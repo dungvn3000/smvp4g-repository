@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 16 05:54:25 SGT 2012
+hazelcast-client-2.1-SNAPSHOT.jar>=
+hazelcast-client-2.1-SNAPSHOT-tests.jar>=
+hazelcast-client-2.1-SNAPSHOT.pom>=
+hazelcast-client-2.1-SNAPSHOT-sources.jar>=
