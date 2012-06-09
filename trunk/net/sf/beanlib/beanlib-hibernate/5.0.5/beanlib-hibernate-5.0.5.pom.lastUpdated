@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 09 16:51:26 GMT+07:00 2012
+default-http\://archiva.fdvs.com.ar/repository/public1/.lastUpdated=1339235485115
+http\://download.java.net/maven/2/.lastUpdated=1339230522618
+http\://smvp4g-repository.googlecode.com/svn/trunk/.lastUpdated=1339235485870
+http\://smvp4g-repository.googlecode.com/svn/trunk/.error=
+http\://download.java.net/maven/2/.error=
+http\://archiva.fdvs.com.ar/repository/public1/.error=Could not transfer artifact net.sf.beanlib\:beanlib-hibernate\:pom\:5.0.5 from/to dynamic-report (http\://archiva.fdvs.com.ar/repository/public1)\: Error transferring file\: Operation timed out
+http\://repo1.maven.org/maven2/.lastUpdated=1339235486992
+http\://repo1.maven.org/maven2/.error=
