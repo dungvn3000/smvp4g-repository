@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jun 09 16:51:28 GMT+07:00 2012
+default-http\://smvp4g-repository.googlecode.com/svn/trunk/.lastUpdated=1339208912228
+default-http\://archiva.fdvs.com.ar/repository/public1/.lastUpdated=1339208912225
+http\://download.java.net/maven/2/.lastUpdated=1339235488480
+default-http\://repo1.maven.org/maven2/.lastUpdated=1339208912231
+http\://smvp4g-repository.googlecode.com/svn/trunk/.error=Could not transfer artifact net.sf.beanlib\:beanlib-joda\:pom\:5.0.5 from/to smvp4g (http\://smvp4g-repository.googlecode.com/svn/trunk)\: Error transferring file\: smvp4g-repository.googlecode.com
+http\://download.java.net/maven/2/.error=
+http\://archiva.fdvs.com.ar/repository/public1/.error=Could not transfer artifact net.sf.beanlib\:beanlib-joda\:pom\:5.0.5 from/to dynamic-report (http\://archiva.fdvs.com.ar/repository/public1)\: Error transferring file\: archiva.fdvs.com.ar
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact net.sf.beanlib\:beanlib-joda\:pom\:5.0.5 from/to central (http\://repo1.maven.org/maven2)\: Error transferring file\: repo1.maven.org
