@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jul 05 02:19:25 SGT 2012
+legacy-http\://download.java.net/maven/1/.lastUpdated=1341425965842
+http\://repo1.maven.org/maven2/.error=
+default-http\://repository.jboss.com/maven2/.lastUpdated=1341425965836
+http\://repo1.maven.org/maven2/.lastUpdated=1341425690139
+http\://repository.jboss.com/maven2/.error=Could not transfer artifact dsiutils\:dsiutils\:pom\:1.0.10 from/to repository.jboss.com (http\://repository.jboss.com/maven2/)\: Access denied to\: http\://repository.jboss.com/maven2/dsiutils/dsiutils/1.0.10/dsiutils-1.0.10.pom
+http\://download.java.net/maven/1/.error=Could not transfer artifact dsiutils\:dsiutils\:pom\:1.0.10 from/to maven-repository.dev.java.net (http\://download.java.net/maven/1)\: No connector available to access repository maven-repository.dev.java.net (http\://download.java.net/maven/1) of type legacy using the available factories WagonRepositoryConnectorFactory
